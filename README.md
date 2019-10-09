@@ -1,2 +1,2 @@
 # HeroApp
- [a link]https://goldenstriker.github.io/HeroApp/
+ [a link](https://goldenstriker.github.io/HeroApp/)
